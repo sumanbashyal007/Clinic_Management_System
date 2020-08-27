@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da4aacfd-e8e4-499f-8d51-45e4448a7e61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Hospital_management_system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SmoothJazz.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/admin_interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/admin_interface_backend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/admin_login_interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinic_management_system (2).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doctor/doctor_interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doctor/doctor_interface_backend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doctor/doctor_login_interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doctor/doctor_registration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/first_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/aatry2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/ad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/addbutton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/additem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/admin_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/adminservice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/bill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/change_credentials.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/createaccount.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/deletebutton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/doc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/doctor_end.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/doctor_logoo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/doctorboardbckground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/doctorpanel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/firstwindowbackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/g.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/hospendlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/i.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/j.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/laptop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/loginbutn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/main_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/medicine_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/nurse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/one_admin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/one_doc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/one_staff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/password.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/patientboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/patienthistory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/pngwave (15).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/prescription.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/regestration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/regtoppic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/schedule.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/schedulelogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/searchbutton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/service_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/showbutton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/staff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/staff_board_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/staff_logoo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/staff_logooo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/submit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/submit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/try2 (3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/try2 (5).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/updatebutton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/username_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/welcomebutton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/staff_interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/staff_interface_backend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/staff_login_interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff/staff_registration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing/unittesting.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1e8aqrFHuuQij5OqKZ2fGxfu80z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aashrit\Desktop\Clinic_management_system\doctor" />
+      <recent name="C:\Users\Aashrit\Desktop\Clinic_management_system\staff" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.first_window">
+    <configuration name="admin_interface" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Hospital_management_system" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/admin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/admin/admin_interface.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="doctor_interface" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Hospital_management_system" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/doctor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/doctor/doctor_interface.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="first_window" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Hospital_management_system" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interface/first_window.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="staff_interface" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Hospital_management_system" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/staff" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/staff/staff_interface.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for unittesting.MyTest.test_check_admin_login_realdata" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Hospital_management_system" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;unittesting.MyTest.test_check_admin_login_realdata&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.first_window" />
+        <item itemvalue="Python.doctor_interface" />
+        <item itemvalue="Python.staff_interface" />
+        <item itemvalue="Python.admin_interface" />
+        <item itemvalue="Python tests.Unittests for unittesting.MyTest.test_check_admin_login_realdata" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da4aacfd-e8e4-499f-8d51-45e4448a7e61" name="Default Changelist" comment="" />
+      <created>1593705867960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593705867960</updated>
+    </task>
+    <servers />
+  </component>
+</project>
